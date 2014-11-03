@@ -79,6 +79,7 @@ more、less —— 分页查看器
 	* more files 或 less files 用来查看文件内容
 	* 用于管道，实现分屏显示： ls -l | more 或 ls -l | less
 * 常用指令：   
+
 |键盘指令|效果|键盘指令|效果|
 |--------|----|--------|----|
 |空格 f|下翻一屏forward|b|上翻一屏backward|
